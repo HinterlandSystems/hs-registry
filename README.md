@@ -19,7 +19,7 @@ It is designed to be modular, adaptable, and compatible with multiple backend en
 
 ## About  
 
-<img align="right" src="https://raw.githubusercontent.com/OwnYourData/dc-intermediary/main/app/assets/images/logo-ngi-trustchain-positive.png" height="100">This project has received funding from the European Union’s Horizon 2020 research and innovation program through the [NGI TRUSTCHAIN program](https://trustchain.ngi.eu/) under cascade funding agreement No 101093274.
+<img align="right" src="https://raw.githubusercontent.com/OwnYourData/dc-dga/main/app/assets/images/logo-ngi-trustchain-positive.png" height="100">This project has received funding from the European Union’s Horizon 2020 research and innovation program through the [NGI TRUSTCHAIN program](https://trustchain.ngi.eu/) under cascade funding agreement No 101093274.
 
 <br clear="both" />
 
